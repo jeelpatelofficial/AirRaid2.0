@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Rocket
+  - Building
+  - Wall
+  - Tower
+  - Ground
+  - Water
+  - BodyPart_Turret
+  - BodyPart_WingSlots
+  - BodyPart_BombBay
+  - BodyPart_FrontCannon
+  - LivesManager
+  - StatScreen
+  - FxTemporaire
+  - AbilityIcon
+  - MainMenuController
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Building
+  - Wall
+  - Floor
+  - Player
+  - Rocket
+  - Enemy
+  - Bomb
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
